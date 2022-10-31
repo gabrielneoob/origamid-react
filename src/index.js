@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './Fixacao/Exercicie.js';
+import App from './React-Hooks/UseMemo-UseCallback/UseMemo'
 
 ReactDOM.render(<App />, document.querySelector('#root'));
 
